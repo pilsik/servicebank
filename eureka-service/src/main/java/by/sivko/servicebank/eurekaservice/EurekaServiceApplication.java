@@ -1,4 +1,4 @@
-package by.sivko.eurekaservice;
+package by.sivko.servicebank.eurekaservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

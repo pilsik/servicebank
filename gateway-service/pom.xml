@@ -8,7 +8,7 @@
         <version>2.0.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>by.SIvko</groupId>
+    <groupId>by.SIvko.servicebank</groupId>
     <artifactId>gateway-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>

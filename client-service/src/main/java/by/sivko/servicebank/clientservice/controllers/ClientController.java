@@ -1,7 +1,7 @@
-package by.sivko.clientservice.controllers;
+package by.sivko.servicebank.clientservice.controllers;
 
-import by.sivko.clientservice.models.Client;
-import by.sivko.clientservice.services.ClientService;
+import by.sivko.servicebank.clientservice.models.Client;
+import by.sivko.servicebank.clientservice.services.ClientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.jpa.repository.query.Procedure;
 import org.springframework.web.bind.annotation.GetMapping;

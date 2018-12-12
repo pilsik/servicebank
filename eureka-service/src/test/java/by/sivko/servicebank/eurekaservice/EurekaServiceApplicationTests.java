@@ -1,4 +1,4 @@
-package by.sivko.eurekaservice;
+package by.sivko.servicebank.eurekaservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

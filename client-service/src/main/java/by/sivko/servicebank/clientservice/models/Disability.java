@@ -1,4 +1,4 @@
-package by.sivko.clientservice.models;
+package by.sivko.servicebank.clientservice.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

@@ -1,4 +1,4 @@
-package by.sivko.gatewayservice;
+package by.sivko.servicebank.gatewayservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

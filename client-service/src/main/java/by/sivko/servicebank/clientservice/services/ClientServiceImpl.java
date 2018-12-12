@@ -1,7 +1,7 @@
-package by.sivko.clientservice.services;
+package by.sivko.servicebank.clientservice.services;
 
-import by.sivko.clientservice.dao.ClientRepository;
-import by.sivko.clientservice.models.Client;
+import by.sivko.servicebank.clientservice.dao.ClientRepository;
+import by.sivko.servicebank.clientservice.models.Client;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

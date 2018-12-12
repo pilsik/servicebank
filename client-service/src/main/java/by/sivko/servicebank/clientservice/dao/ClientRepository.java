@@ -1,6 +1,6 @@
-package by.sivko.clientservice.dao;
+package by.sivko.servicebank.clientservice.dao;
 
-import by.sivko.clientservice.models.Client;
+import by.sivko.servicebank.clientservice.models.Client;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

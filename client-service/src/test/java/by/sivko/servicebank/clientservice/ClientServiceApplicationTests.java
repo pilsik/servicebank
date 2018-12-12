@@ -1,4 +1,4 @@
-package by.sivko.gatewayservice;
+package by.sivko.servicebank.clientservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class GatewayServiceApplicationTests {
+public class ClientServiceApplicationTests {
 
     @Test
     public void contextLoads() {
