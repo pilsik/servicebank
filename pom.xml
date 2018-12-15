@@ -12,5 +12,7 @@
         <module>client-service</module>
         <module>eureka-service</module>
         <module>gateway-service</module>
+        <module>config</module>
+        <module>auth-service</module>
     </modules>
 </project>

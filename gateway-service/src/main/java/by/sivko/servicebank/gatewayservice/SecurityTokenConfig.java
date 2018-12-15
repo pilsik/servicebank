@@ -1,4 +1,4 @@
-package by.sivko.gatewayservice;
+package by.sivko.servicebank.gatewayservice;
 
 import javax.servlet.http.HttpServletResponse;
 

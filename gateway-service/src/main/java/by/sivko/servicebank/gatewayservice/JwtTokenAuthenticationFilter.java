@@ -1,4 +1,4 @@
-package by.sivko.gatewayservice;
+package by.sivko.servicebank.gatewayservice;
 
 import java.io.IOException;
 import java.util.List;
